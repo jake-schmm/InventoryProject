@@ -1,5 +1,5 @@
 run = """ 
-ud backend
+cd backend
 sudo mvn spring-boot:run
 cd ..
 cd frontend
