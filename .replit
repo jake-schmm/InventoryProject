@@ -1,5 +1,7 @@
-cd backend
+run = """ 
+ud backend
 sudo mvn spring-boot:run
 cd ..
 cd frontend
 npm start
+"""
