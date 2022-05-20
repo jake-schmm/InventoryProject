@@ -1,6 +1,8 @@
-run = "cd backend 
-mvn spring-boot:run & 
+run = """
+cd backend 
+mvn spring-boot:run &
 cd .. 
 cd frontend 
+npm install
 npm start
-"
+"""
