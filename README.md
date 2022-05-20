@@ -1,0 +1,1 @@
+A React front-end with a Java Spring Boot backend (REST API) for an Inventory application. Allows for displaying, deleting, editing, and creating inventory items. Also adds a location feature where locations for inventory items can be created and assigned to specific inventory items. 
